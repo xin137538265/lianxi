@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Print("ceshi_lianxi")
+	fmt.Println("第一行")
 }
